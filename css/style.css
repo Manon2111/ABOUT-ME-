@@ -1,9 +1,8 @@
 h1 {font-size: 45px;
     text-align: center}
-h1{ color: rgb(103, 4, 112); background: hsl(261, 12%, 37%);background-size: calc(40,100,100);}
-nav {color: black}
+h1{ color: rgb(103, 4, 112);}
 .container {display: flex;}
-Body{background-color: rgb(179, 151, 151)}
+Body{background-color: #b88498}
 h1 {font-style: oblique;font-family: Georgia, 'Times New Roman', Times, serif;}
 #one {color:#8a6692;font-size: xx-large;font-family: Georgia, 'Times New Roman', Times, serif;text-align: calc(40,40);}
 #two {color: #54486a;font-size: x-large;font-family: Georgia, 'Times New Roman', Times, serif;}
@@ -16,3 +15,36 @@ h1 {font-style: oblique;font-family: Georgia, 'Times New Roman', Times, serif;}
 table, th, td {
     border: 1px solid black;
   }
+  nav 
+  {
+      margin: 0px auto;
+      width: 100%;
+      height: 100px;
+      background: rgb(85, 60, 80)
+  }
+  nav .main_pages 
+{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+nav .main_pages a 
+{
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+    text-decoration: none;
+    font-family: Arial, sans-serif;
+    color: black;}
+    nav a:hover 
+{
+    background: #5A5766}
+    
+
+img {
+    width : 400px;
+    height : 300px;
+    }
+    h4 {text-align:bottom right ;color: black;}
