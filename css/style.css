@@ -1,15 +1,15 @@
 h1 {font-size: 45px;
     text-align: center}
-h1{ color: rgb(103, 4, 112);}
-
+h1{ color: rgb(103, 4, 112); background: hsl(261, 12%, 37%);background-size: calc(40,100,100);}
+nav {color: black}
 .container {display: flex;}
 Body{background-color: rgb(179, 151, 151)}
 h1 {font-style: oblique;font-family: Georgia, 'Times New Roman', Times, serif;}
-#one {color:#8a6692;font-size: xx-large;font-family: Georgia, 'Times New Roman', Times, serif;}
+#one {color:#8a6692;font-size: xx-large;font-family: Georgia, 'Times New Roman', Times, serif;text-align: calc(40,40);}
 #two {color: #54486a;font-size: x-large;font-family: Georgia, 'Times New Roman', Times, serif;}
 #about {color: #54486a;font-size: xx-large;}
 #Competences {color:#8a6692;font-size: x-large;font-family: Georgia, 'Times New Roman', Times, serif;}
 #objectifs {color: #54486a;font-size: xx-large;font-family: Georgia, 'Times New Roman', Times, serif;}
 #obj {color: #8a6692;font-size:large;font-family: Georgia, 'Times New Roman', Times, serif;}
-#passion {color: #54486a;font-size: x-large;font-family: Georgia, 'Times New Roman', Times, serif;}
-#passiondescri {color: #8a6692;font-size: larger;font-family: Georgia, 'Times New Roman', Times, serif;}
+#passion {color: #54486a;font-size: xx-large;font-family: Georgia, 'Times New Roman', Times, serif;}
+#passiondescri {color: #8a6692;font-size: x-large;font-family: Georgia, 'Times New Roman', Times, serif;}
