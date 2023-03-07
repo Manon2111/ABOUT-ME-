@@ -13,3 +13,6 @@ h1 {font-style: oblique;font-family: Georgia, 'Times New Roman', Times, serif;}
 #obj {color: #8a6692;font-size:large;font-family: Georgia, 'Times New Roman', Times, serif;}
 #passion {color: #54486a;font-size: xx-large;font-family: Georgia, 'Times New Roman', Times, serif;}
 #passiondescri {color: #8a6692;font-size: x-large;font-family: Georgia, 'Times New Roman', Times, serif;}
+table, th, td {
+    border: 1px solid black;
+  }
