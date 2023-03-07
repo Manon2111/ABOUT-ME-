@@ -5,7 +5,8 @@ h1{ color: rgb(103, 4, 112);}
 .container {display: flex;}
 Body{background-color: rgb(179, 151, 151)}
 h1 {font-style: oblique;font-family: Georgia, 'Times New Roman', Times, serif;}
-p {font-style: oblique;font-family: Georgia, 'Times New Roman', Times, serif;font-size: x-large;}
-#one {color:#8a6692;font-size: xx-large;}
-#two {color: #54486a;font-size: xx-large;}
+#one {color:#8a6692;font-size: xx-large;font-family: Georgia, 'Times New Roman', Times, serif;}
+#two {color: #54486a;font-size: x-large;font-family: Georgia, 'Times New Roman', Times, serif;}
 #about {color: #54486a;font-size: xx-large;}
+#Competences {color:#8a6692;font-size: x-large;font-family: Georgia, 'Times New Roman', Times, serif;}
+#objectifs {color: #54486a;font-size: xx-large;font-family: Georgia, 'Times New Roman', Times, serif;}
