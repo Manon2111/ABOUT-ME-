@@ -57,3 +57,13 @@ img {display: block;
     label, #toggle { display: none; } @media all and (max-width: 991px) { .Le_menu { height: 60px; } .Le_menu .main_pages { display: none; flex-direction: column; background: #48435C; height: 220px; } .Le_menu .main_pages a { width: 50%; } .label-hamburger { width: 30px; display: flex; justify-content: center; align-items: center; margin: 0 auto; font-size: 40px; color: white; cursor: pointer; } #toggle:checked + .main_pages{ display: flex; } }
 .Le_menu {z-index: 1;position: relative;}
 #photo {z-index:0;position: relative;}
+
+.dark {
+
+    background-color:var(--background);
+   
+    color: white;
+   
+   }
+
+   :root {--background: black;}
