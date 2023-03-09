@@ -58,8 +58,13 @@ img {display: block;
 .Le_menu {z-index: 1;position: relative;}
 #photo {z-index:0;position: relative;}
 
-.dark-mode {
-    background-color: black;
-    color: white;
-  }
+.index { 
+    margin: 60 auto;
+    width: 1350px;
+    text-align: center;
+}
+
+.About {margin:60 auto;
+width: 1350px;
+text-align: center;}
  
