@@ -1,17 +1,18 @@
 h1 {font-size: 45px;
-    text-align: center}
+    }
 h1{ color: rgb(103, 4, 112);}
 .container {display: flex;}
 Body{background-color: #b88498;margin-top:auto;}
 h1 {font-style: oblique;font-family: Georgia, 'Times New Roman', Times, serif;}
-#one {color:#8a6692;font-size: xx-large;font-family: Georgia, 'Times New Roman', Times, serif;text-align: calc(40,40);text-align: center;}
+#one {color:#8a6692;font-size: xx-large;font-family: Georgia, 'Times New Roman', Times, serif;}
 #two {color: #54486a;font-size: x-large;font-family: Georgia, 'Times New Roman', Times, serif;}
 .about {color: #54486a;font-size: xx-large;}
+.Crea{color:#8a6692;font-size: x-large;font-family: Georgia, 'Times New Roman', Times, serif;}
 .Competences {color:#8a6692;font-size: x-large;font-family: Georgia, 'Times New Roman', Times, serif;}
 .objectifs {color: #54486a;font-size: xx-large;font-family: Georgia, 'Times New Roman', Times, serif;}
 .obj {color: #8a6692;font-size:large;font-family: Georgia, 'Times New Roman', Times, serif;}
 .passion {color: #54486a;font-size: xx-large;font-family: Georgia, 'Times New Roman', Times, serif;}
-.passiondescri {color: #8a6692;font-size: x-large;font-family: Georgia, 'Times New Roman', Times, serif;text-align: center;}
+.passiondescri {color: #8a6692;font-size: x-large;font-family: Georgia, 'Times New Roman', Times, serif;}
 table, th, td {
     border: 1px solid rgb(117, 3, 89);}
 
@@ -47,25 +48,16 @@ img {display: block;
     height : 300px;margin: auto;
 }
     h4 {text-align:bottom right ;color: black;}
-    #photo {
-        display: block;
-        width: 300px;
-        height: 300px;
-        margin: auto;}    
+       
     #cv {color: black;}
     @media all and (max-width: 991px) { .Le_menu { height: 60px} .Le_menu .main_pages { display: none; } .label-hamburger { width: 30px; display: flex; justify-content: center; align-items: center; margin: 0px auto; font-size: 40px; color: white; cursor: pointer; } }
     label, #toggle { display: none; } @media all and (max-width: 991px) { .Le_menu { height: 60px; } .Le_menu .main_pages { display: none; flex-direction: column; background: #48435C; height: 220px; } .Le_menu .main_pages a { width: 50%; } .label-hamburger { width: 30px; display: flex; justify-content: center; align-items: center; margin: 0 auto; font-size: 40px; color: white; cursor: pointer; } #toggle:checked + .main_pages{ display: flex; } }
 .Le_menu {z-index: 1;position: relative;}
 #photo {z-index:0;position: relative;}
+.index {
+    text-align: center}
 
-.index { 
-    margin: 60 auto;
-    width: 1350px;
-    text-align: center;
-}
-
-.About {margin:60 auto;
-width: 1350px;
+.About {
 text-align: center}
 
 .dark-mode{background-color: rgb(0, 0, 0);color: bisque;}
