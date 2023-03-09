@@ -43,8 +43,8 @@ nav .main_pages a
     
 
 img {display: block;
-    width : 400px;
-    height : 300px;margin: auto;
+    width : 500px;
+    height : 400px;margin: auto;
 }
     h4 {text-align:bottom right ;color: black;}
     #photo {
@@ -58,12 +58,8 @@ img {display: block;
 .Le_menu {z-index: 1;position: relative;}
 #photo {z-index:0;position: relative;}
 
-.dark {
-
-    background-color:var(--background);
-   
+.dark-mode {
+    background-color: black;
     color: white;
-   
-   }
-
-   :root {--background: black;}
+  }
+ 
