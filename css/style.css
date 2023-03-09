@@ -13,8 +13,8 @@ h1 {font-style: oblique;font-family: Georgia, 'Times New Roman', Times, serif;}
 .passion {color: #54486a;font-size: xx-large;font-family: Georgia, 'Times New Roman', Times, serif;}
 .passiondescri {color: #8a6692;font-size: x-large;font-family: Georgia, 'Times New Roman', Times, serif;text-align: center;}
 table, th, td {
-    border: 1px solid black;
-  }
+    border: 1px solid black;}
+
   nav 
   {
       margin: 0px auto;
@@ -66,5 +66,8 @@ img {display: block;
 
 .About {margin:60 auto;
 width: 1350px;
-text-align: center;}
- 
+text-align: center}
+
+.dark-mode {background-color: black;color: aliceblue;}
+
+table {margin: auto;justify-content: center;}
