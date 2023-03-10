@@ -1,16 +1,16 @@
 h1 {font-size: 45px;
     }
-h1{ color: rgb(255, 253, 253);}
+h1{ color: rgb(0, 0, 0);}
 .container {display: flex;}
 Body{background-color: #b88498;margin-top:auto;position: relative;}
 h1 {font-style: oblique;font-family:Georgia, 'Times New Roman', Times, serif;font-size: xx-large;}
-h2 {font-style: oblique;font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;color: #9bfaf2;font-size: xx-large;}
-p {color: #fcffff;font-style: oblique;font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif}
-h3 {color:#e9e3e7;font-size: x-large;;font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif}
+h2 {font-style: oblique;font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;color: #000000;font-size: xx-large;}
+p {color: #000000;font-style: oblique;font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif}
+h3 {color:#000000;font-size: x-large;;font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif}
 #one {font-size: xx-large}
 #two {font-size: x-large;}
 
-.passiondescri {color: #ffffff;font-size: x-large;font-family: Georgia, 'Times New Roman', Times, serif;}
+.passiondescri {color: #000000;font-size: x-large;font-family: Georgia, 'Times New Roman', Times, serif;}
 table, th, td {
     border: 2px solid rgb(117, 3, 89);}
 
