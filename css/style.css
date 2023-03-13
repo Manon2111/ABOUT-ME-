@@ -8,7 +8,7 @@ h2 {font-style: oblique;font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Luc
 p {font-style: oblique;font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif}
 h3 {font-size: x-large;;font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif}
 #one {font-size: xx-large}
-#two {font-size: x-large;}
+#two {font-size: x-large;max-width: 720px;margin: auto;}
 
 .passiondescri {font-size: x-large;font-family: Georgia, 'Times New Roman', Times, serif;}
 table, th, td {
@@ -70,9 +70,8 @@ table {margin: auto;justify-content: center;font-size:25px;}
 
 footer {position: absolute;bottom:0;left: 0;}
 
-.index {text-align: center;max-width: 720px;margin: auto;} 
+.index {text-align: center;} 
 
-@keyframes .button {
-    0% { transform: translateZ(-100px) rotateX(  0deg) rotateY(  0deg); }
-  100% { transform: translateZ(-100px) rotateX(360deg) rotateY(360deg); }
-}
+li {text-align: center;font-size: x-large;font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+
+.metier {text-align: center;font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
